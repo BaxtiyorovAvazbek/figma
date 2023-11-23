@@ -40,6 +40,7 @@ body{
 .img2{
     width: 20px;
     height: 22px;
+    flex-shrink: 0;
 }
 
 b{
@@ -65,10 +66,42 @@ b{
 .container2{
     display: flex;
     width: 50px;
-    height: 61px;
+    height: 35px;
     padding: 17.688px 0px 17.688px 362.269px;
     justify-content: flex-end;
     align-items: flex-start;
     gap: 19px;
     flex-shrink: 0;
+}
+
+.img3{
+    width: 1440px;
+    height: 435px;
+    flex-shrink: 0;
+}
+
+.backround{
+    background-color:  #A9AE8D;
+    width: 1440px;
+    height: 304px;
+    
+}
+
+.bold{
+    color: #F6F4EC;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.8px;
+    text-transform: uppercase;
+}
+
+.bold2{
+    color: #F6F4EC;
+    font-family: Roboto;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 64px;
 }

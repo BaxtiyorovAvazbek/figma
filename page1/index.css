@@ -67,3 +67,55 @@ button{
     font-size: 23px;
     text-align: center;
 }
+
+.img3{
+    margin-left: 90px;
+}
+
+.img4{
+    margin-left: 90px;
+}
+
+main{
+    background-color: cornsilk;
+    height: 790px;
+    
+}
+
+nav{
+    background-color: cornsilk;
+}
+
+.img5{
+    margin-inline-end: 0px;
+    margin-right: 1150px;
+}
+
+.section3{
+    margin-right: 230px;
+}
+
+.section4{
+    margin-right: 360px;
+}
+
+.section5{
+    margin-right: 330px;
+}
+
+.section6{
+    margin-right: 220px;
+}
+
+.section7{
+    margin-right: 270px;
+}
+
+.section8{
+    margin-right: 170px;
+}
+
+.img6{
+    justify-content: center;
+    display: flex;
+}
